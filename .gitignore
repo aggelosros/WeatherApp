@@ -7,3 +7,5 @@ backend/vendor/
 
 # Environment Files
 .env
+
+.vite/
