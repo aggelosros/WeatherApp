@@ -1,0 +1,9 @@
+# Node.js
+frontend/node_modules/
+frontend/dist/
+
+# PHP
+backend/vendor/
+
+# Environment Files
+.env
